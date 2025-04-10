@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_depth - this method checks for the depth of the given node
  * and returns it
